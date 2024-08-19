@@ -26,6 +26,10 @@ Professional Experiences:
   "Interests": ["Backend Development", "Embedded Development", "Machine Learning"],
   "Professional Experiences": [
     {
+      "Role": "Software Test Engineer"
+      "Organization": "Arcx Inc.",
+    },
+    {
       "Role": "Data Analyst"
       "Organization": "Markham Stouffville Hospital",
     },
