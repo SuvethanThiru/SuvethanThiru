@@ -8,13 +8,7 @@ Major: Computer Engineering
 Interests:
   - Backend Development
   - Embedded Development
-  - Machine Learning
 
-Professional Experiences:
-  - Role: Data Analyst
-    Organization: Markham Stouffville Hospital
-  - Role: Software Developer
-    Organization: KarmaCares Psychotherapy College
 ...
 ```
 -->
@@ -23,21 +17,7 @@ Professional Experiences:
   "Name": "Suvethan Thirunavukkarasu",
   "School": "University of Waterloo",
   "Major": "Computer Engineering",
-  "Interests": ["Backend Development", "Embedded Development", "Machine Learning"],
-  "Professional Experiences": [
-    {
-      "Role": "Software Test Engineer"
-      "Organization": "Arcx Inc.",
-    },
-    {
-      "Role": "Data Analyst"
-      "Organization": "Markham Stouffville Hospital",
-    },
-    {
-      "Role": "Software Developer"
-      "Organization": "KarmaCares Psychotherapy College",
-    }
-  ]
+  "Interests": ["Backend Development", "Embedded Development"],
 }
 ```
 
